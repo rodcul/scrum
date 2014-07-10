@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: SCRUM for Startups
+tagline: The no bullshit approach to shipping product
 ---
 {% include JB/setup %}
 
